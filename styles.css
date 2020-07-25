@@ -1,0 +1,13 @@
+.logoBox{
+    background-image: url("media/header.3ca9a0a8.jpg");
+    height: 500px;
+    width: auto;
+}
+
+#logo {
+    position: relative;
+    top: 100px;
+    left: 300px;
+    width: 450px;
+    height: 450px;
+}
